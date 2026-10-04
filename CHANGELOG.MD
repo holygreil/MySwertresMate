@@ -1,3 +1,41 @@
+# MySwertresMate v1.2.09.2026
+
+## ✨ What's New
+
+### 📱 Updated Key Features
+
+* Updated and improved the **Key Features** section.
+* Clearer overview of the app's free and premium features.
+* Improved feature descriptions for easier understanding.
+
+### ℹ️ About MySwertresMate
+
+* Added and updated the **About MySwertresMate** section.
+* Includes information about the app, its purpose, and development.
+
+### 🔐 Automatic Device Information Detection
+
+* Added **automatic device information detection during installation**.
+* Device information is automatically detected and associated with the installation for improved license management.
+* Helps support the app's **one-device premium license policy**.
+
+### 🛠️ Improvements
+
+* Improved installation and license-management experience.
+* Various UI and information-display improvements.
+* General stability and performance improvements.
+
+---
+
+**MySwertresMate**
+📊 Statistics • Analysis • Results
+
+⚠️ Analysis only • No guaranteed winning numbers.
+
+
+
+
+
 ## My SwertresMate v1.1.09.2026
 
 ### What's New
