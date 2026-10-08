@@ -1,3 +1,54 @@
+# My SwertresMate v2.0.10.26
+
+### Major Update • October 2026
+
+## ✨ What's New
+
+### 🎨 New App Icon & Splash Screen
+
+* Completely redesigned **My SwertresMate app icon**.
+* Updated and improved the **splash/loading screen** for a cleaner and more polished startup experience.
+* Improved branding and visual consistency throughout the app.
+
+### 🗄️ Database Improvements
+
+* Fixed various **database bugs and glitches**.
+* Improved database stability and reliability.
+* Fixed issues related to database data not being properly retained after updates.
+* Improved database reset and reload behavior.
+
+### 🔄 Reset & Reload Bundled Data
+
+* **Free Mode** can now use **Reset & Reload Bundled Data**.
+* Allows users to restore the original bundled historical database whenever needed.
+* Improved recovery when database data becomes outdated or corrupted.
+
+### ⭐ Premium Themes
+
+Premium users now have **5 additional themes** to choose from.
+
+* Expanded theme selection for a more personalized experience.
+* Premium themes feature colorful and distinct visual styles.
+* Themes are available exclusively in **Premium Mode**.
+
+## 🐛 Bug Fixes
+
+* Fixed database-related bugs and glitches.
+* Improved data loading and database synchronization.
+* Fixed issues that could cause updated results or database changes to disappear after restarting the app.
+* Improved overall app stability and performance.
+
+## 📱 Compatibility
+
+* Android 8.0 (Oreo) and above.
+* Optimized for Android phones and tablets.
+
+### ⚠️ Disclaimer
+
+**My SwertresMate is a statistical analysis and results application. Analysis does not guarantee winning numbers or outcomes.**
+
+
+
 # MySwertresMate v1.3.10.26
 
 ## ⭐ Key Features
