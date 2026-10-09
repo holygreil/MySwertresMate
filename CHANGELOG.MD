@@ -1,3 +1,47 @@
+# My SwertresMate v2.1.10.26
+
+### Minor Update • October 2026
+
+## ✨ What's New
+
+### 🎨 Three New Premium Themes
+
+* ❤️ **Ruby Red** — A bold red theme for a striking, modern look.
+* 💗 **Pink Blossom** — A stylish pink theme with a fresh, vibrant appearance.
+* ❄️ **Snow White** — A clean, bright white theme for a crisp and elegant experience.
+* Existing Default, Light, and Dark themes remain available.
+
+### 🗄️ First-Launch Database Setup Guide
+
+* Added a welcome dialogue displayed the first time the app is opened after installation.
+* Guides users to **Reset & Reload Bundled Data** to initialize the bundled historical database.
+* Instructs users to connect to the internet and tap **UPDATE RESULTS** on the Home screen to fetch the latest available results.
+* Helps users complete the initial database setup more easily.
+
+## 🐛 Bug Fixes & Improvements
+
+* Fixed minor UI and layout issues.
+* Improved theme consistency across app screens.
+* Improved app stability and general performance.
+* Refined the overall user experience.
+
+## 📊 Core Features
+
+* Historical Swertres results database.
+* Statistical analysis and candidate rankings.
+* Premium Advanced Statistical Analysis (ASA).
+* Top 25 Royal Combinations for Premium users.
+* Online results updates.
+* Custom Bet and Virtual Bet features.
+
+## ⚠️ Disclaimer
+
+My SwertresMate is a statistical analysis tool for Swertres enthusiasts. It does not guarantee winning numbers or results.
+
+**Developed by HolyGreil**
+
+##############################################################################################################################################################
+
 # My SwertresMate v2.0.10.26
 
 ### 🚀 Major Update • October 2026
@@ -52,6 +96,9 @@ A major update focused on **new visuals, improved database stability, enhanced s
 ### ⚠️ Disclaimer
 
 **My SwertresMate is a statistical analysis and results application. Analysis does not guarantee winning numbers, prizes, or outcomes.**
+
+
+##############################################################################################################################################################
 
 
 # MySwertresMate v1.3.10.26
@@ -159,7 +206,7 @@ For entertainment and informational purposes only.
 **Developed by HolyGreil**
 
 
-
+##############################################################################################################################################################
 
 
 # MySwertresMate v1.2.09.2026
@@ -197,7 +244,7 @@ For entertainment and informational purposes only.
 ⚠️ Analysis only • No guaranteed winning numbers.
 
 
-
+##############################################################################################################################################################
 
 
 ## My SwertresMate v1.1.09.2026
