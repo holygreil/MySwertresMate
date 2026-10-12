@@ -1,3 +1,31 @@
+# SwertresMate v2.2.10.26 — Changelog
+
+### ✨ What's New
+- Updated app branding to **SwertresMate**.
+- Improved splash screen with the app logo and a clean black background.
+- Refined splash screen loading time for a smoother startup experience.
+- Added a responsive app header for different screen sizes and devices.
+- Improved the default theme with a light purple background and coordinated colors.
+- Updated the Settings screen with a Facebook Page link for support and announcements.
+
+### 🎨 UI & Experience Improvements
+- Improved visual consistency across the app.
+- Refined app colors and layout for a cleaner, more modern appearance.
+- Improved compatibility with different screen resolutions.
+
+### 🛠️ Fixes & Improvements
+- Minor UI adjustments and stability improvements.
+- General performance and usability refinements.
+
+### 📌 Disclaimer
+SwertresMate is an analysis tool only. **No guaranteed winning numbers.**
+
+Developed by Holy Greil.
+
+
+##############################################################################################################################################################
+
+
 # My SwertresMate v2.1.10.26
 
 ### Minor Update • October 2026
