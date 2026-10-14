@@ -1,3 +1,32 @@
+# 🚀 SwertresMate v2.4.10.26 — Release Notes
+
+🎉 **What's New in Version 2.4?**
+
+We've improved SwertresMate with a focus on database reliability and results management to provide a smoother analysis experience.
+
+### ✨ Improvements & Fixes
+
+- 🗄️ **Database Handling Improvements** — Refined database processing to improve the handling of stored Swertres results.
+- 📚 **Historical Results Management** — Improvements to how historical results are handled within the app.
+- 🔄 **Results Update Reliability** — Refinements to the results update process for more consistent data handling.
+- 💾 **Local Database Improvements** — Better handling of results stored on your device.
+- ⚙️ **App Stability** — General code improvements and minor fixes for a smoother experience.
+
+### 📊 Analyze with SwertresMate
+
+Explore historical results and use the app's analysis tools to review number combinations and statistical patterns.
+
+💜 **Thank you for using SwertresMate!**
+
+Your support motivates us to keep improving the app and delivering a better experience with every update.
+
+📌 **Disclaimer:** For number analysis and reference only. No guaranteed winning numbers.
+
+👨‍💻 Developed by Holy Greil
+
+
+##############################################################################################################################################################
+
 # SwertresMate v2.2.10.26 — Changelog
 
 ### ✨ What's New
