@@ -1,3 +1,70 @@
+# 🎃 SwertresMate v3.0.11.26 – HALLOW
+### 🚀 Official Release | November 1, 2026
+
+🥊 **Feel the punch. See the result!**
+
+A new chapter begins! SwertresMate v3 brings a refreshed experience with a modern interface, Community Chat, and enhanced statistical analysis.
+
+## ✨ What's New
+
+### 💬 Community Chat
+- Introduced Community Chat for SwertresMate users.
+- Real-time messaging powered by Firebase.
+- User nicknames and customizable avatars.
+- Message interactions, including likes and replies.
+- Improved community interaction experience.
+
+### 🎨 Modern UI & Experience
+- Refreshed application interface.
+- Improved visual presentation and navigation.
+- Enhanced screen layouts and readability.
+- More polished overall user experience.
+
+### 📊 Results & Statistics
+- Improved results browsing experience.
+- Support for 2PM, 5PM, and 9PM draw schedules.
+- Historical results and statistical information.
+- Improved presentation of number statistics.
+
+### 🧠 Advanced Statistical Analysis (ASA)
+- Enhanced presentation of ranked combinations.
+- Statistical scores and ranking information.
+- Improved analysis experience for exploring number combinations.
+
+### 🔥 Digit Strength
+- Improved digit strength presentation.
+- Easier access to statistical insights.
+
+### ⚙️ Performance & Improvements
+- General application improvements.
+- UI refinements and bug fixes.
+- Improved application stability and usability.
+
+---
+
+## 💜 Thank You!
+
+Thank you for supporting SwertresMate and being part of its growing community.
+
+Every release is another step toward making SwertresMate better.
+
+**Welcome to SwertresMate v3 – HALLOW!**
+
+🥊 Feel the punch. See the result!
+
+---
+
+## ⚠️ Disclaimer
+SwertresMate is an independent statistical analysis and entertainment application. Statistical rankings and scores do not guarantee winning numbers or predict future draw results. Play responsibly.
+
+
+
+
+##############################################################################################################################################################
+
+
+
+
 # 🚀 SwertresMate v2.4.10.26 — Release Notes
 
 🎉 **What's New in Version 2.4?**
